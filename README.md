@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/b221fda0-971e-4607-85be-350d0f5458e1
-
 ## Run Locally
 
-**Prerequisites:**  Node.js
+This repository contains the Kurama web app. To run locally:
 
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Create a `.env.local` from `.env.example` and fill any required API keys
 3. Run the app:
    `npm run dev`
