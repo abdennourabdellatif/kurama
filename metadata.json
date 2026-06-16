@@ -1,0 +1,8 @@
+{
+  "name": "Remix: KORAMA Classic Menswear",
+  "description": "Premium e-commerce store with secure payment system for KORAMA, the classic luxury menswear brand in Algeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
